@@ -259,7 +259,7 @@ if __name__ == "__main__" :
     x,y=0,0
     w,h=600,400
     view=View(position=(x,y),dimension=(w,h))
-    view.setWindowTitle("CAI 2425 A  : View")
+    view.setWindowTitle("View")
 
     # Scene
     model=QtWidgets.QGraphicsScene()

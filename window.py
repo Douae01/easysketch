@@ -8,7 +8,7 @@ import json
 class Window(QtWidgets.QMainWindow):
     def __init__(self,position=(0,0),dimension=(500,300)):
         QtWidgets.QMainWindow.__init__(self)
-        self.setWindowTitle("CAI  2425A : MainWindow (View) ")
+        self.setWindowTitle("MainWindow (View) ")
         x,y=position
         w,h=dimension
         self.filename = None
@@ -480,11 +480,11 @@ class Window(QtWidgets.QMainWindow):
                 <table>
                     <tr>
                         <td><b>CHOUBRI Douae</b></td>
-                        <td class="email">d3choubr@enib.fr</td>
+                        <td class="email">douaech164@gmail.fr</td>
                     </tr>
                     <tr>
                         <td><b>EL JILY Mohamed</b></td>
-                        <td class="email">m3eljily@enib.fr</td>
+                        <td class="email">mohamedeljily2005@gmail.fr</td>
                     </tr>
                 </table>
             </body>
